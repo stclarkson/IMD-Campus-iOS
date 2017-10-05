@@ -1,51 +1,28 @@
-[
-  {
-    "id" : "978-0641723445",
-    "cat" : ["book","hardcover"],
-    "name" : "The Lightning Thief",
-    "author" : "Rick Riordan",
-    "series_t" : "Percy Jackson and the Olympians",
-    "sequence_i" : 1,
-    "genre_s" : "fantasy",
-    "inStock" : true,
-    "price" : 12.50,
-    "pages_i" : 384
-  }
-,
-  {
-    "id" : "978-1423103349",
-    "cat" : ["book","paperback"],
-    "name" : "The Sea of Monsters",
-    "author" : "Rick Riordan",
-    "series_t" : "Percy Jackson and the Olympians",
-    "sequence_i" : 2,
-    "genre_s" : "fantasy",
-    "inStock" : true,
-    "price" : 6.49,
-    "pages_i" : 304
-  }
-,
-  {
-    "id" : "978-1857995879",
-    "cat" : ["book","paperback"],
-    "name" : "Sophie's World : The Greek Philosophers",
-    "author" : "Jostein Gaarder",
-    "sequence_i" : 1,
-    "genre_s" : "fantasy",
-    "inStock" : true,
-    "price" : 3.07,
-    "pages_i" : 64
-  }
-,
-  {
-    "id" : "978-1933988177",
-    "cat" : ["book","paperback"],
-    "name" : "Lucene in Action, Second Edition",
-    "author" : "Michael McCandless",
-    "sequence_i" : 1,
-    "genre_s" : "IT",
-    "inStock" : true,
-    "price" : 30.50,
-    "pages_i" : 475
-  }
-]
+{ "Books":
+  [
+    { "ISBN":"ISBN-0-13-713526-2",
+      "Price":85,
+      "Edition":3,
+      "Title":"A First Course in Database Systems",
+      "Authors":[ {"First_Name":"Jeffrey", "Last_Name":"Ullman"},
+                  {"First_Name":"Jennifer", "Last_Name":"Widom"} ] }
+    ,
+    { "ISBN":"ISBN-0-13-815504-6",
+      "Price":100,
+      "Remark":"Buy this book bundled with 'A First Course' - a great deal!",
+      "Title":"Database Systems:The Complete Book",
+      "Authors":[ {"First_Name":"Hector", "Last_Name":"Garcia-Molina"},
+                  {"First_Name":"Jeffrey", "Last_Name":"Ullman"},
+                  {"First_Name":"Jennifer", "Last_Name":"Widom"} ] }
+  ],
+  "Magazines":
+  [
+    { "Title":"National Geographic",
+      "Month":"January",
+      "Year":2009 }
+    ,
+    { "Title":"Newsweek",
+      "Month":"February",
+      "Year":2009 }
+  ]
+}
