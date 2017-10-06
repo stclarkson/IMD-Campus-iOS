@@ -1,14 +1,7 @@
-[
-  {
-    "person": {
-      "name": "Dani",
-      "age": "24"
-    }
-  },
-  {
-    "person": {
-      "name": "Ray",
-      "age": "70"
-    }
-  }
-]
+{
+  "People": [
+    "Steve",
+    "Michael",
+    "Phil"
+    ]
+}
