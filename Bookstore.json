@@ -20,9 +20,9 @@
     },
         {
       "firstname": "Steve",
-      "lastname": "IMD World Competitiveness Center",
-      "title": "World Competitiness Yearbook 2017",
-      "imageurl": "https://www.imd.org/globalassets/publications/books/pictures/big/wcy_2017_yearbook-1310-575.jpg"
+      "lastname": "Stephane Garelli",
+      "title": "Are you a Tiger, a Cat or a Dinosaur",
+      "imageurl": "https://www.imd.org/globalassets/publications/books/pictures/small/areyouatiger.jpg"
     },
     {
       "firstname": "Maria",
@@ -32,9 +32,9 @@
     },
     {
       "firstname": "James",
-      "lastname": "Georges Haour",
-      "title": "Created in China",
-      "imageurl": "https://www.imd.org/globalassets/publications/books/pictures/big/createdinchina.jpg"
+      "lastname": "Carlos Cordon",
+      "title": "Strategy is Digital",
+      "imageurl": "https://www.imd.org/globalassets/publications/books/pictures/small/strategyisdigital.jpg"
     }
   ]
 }
