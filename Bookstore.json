@@ -1,38 +1,50 @@
 ﻿{
   "books": [
     {
+      "date": "June 2017",
       "firstname": "Steve",
+      "description": "",
       "lastname": "IMD World Competitiveness Center",
       "title": "World Competitiness Yearbook 2017",
       "imageurl": "https://www.imd.org/globalassets/publications/books/pictures/big/wcy_2017_yearbook-1310-575.jpg"
     },
     {
+      "date": "June 2017",
       "firstname": "Maria",
-      "lastname": "Francisco Szekely",
+      "description": "Many recent books make the case for businesses to become more sustainable, but few explain the specifics. In this book, Francisco Szekely and Zahir Dossa offer a pragmatic new business model for...",
+      "lastname": "By Francisco Szekely",
       "title": "Beyond the Triple Bottom Line",
       "imageurl": "https://www.imd.org/globalassets/publications/books/pictures/big/beyond_the_triple_bottom_line-1310-575.jpg"
     },
     {
+      "date": "June 2017",
       "firstname": "James",
-      "lastname": "Georges Haour",
+      "description": "",
+      "lastname": "By Georges Haour",
       "title": "Created in China",
       "imageurl": "https://www.imd.org/globalassets/publications/books/pictures/big/createdinchina.jpg"
     },
-        {
+    {
+      "date": "June 2017",
       "firstname": "Steve",
-      "lastname": "Stephane Garelli",
+      "description": "",
+      "lastname": "By Stephane Garelli",
       "title": "Are you a Tiger, a Cat or a Dinosaur",
       "imageurl": "https://www.imd.org/globalassets/publications/books/pictures/small/areyouatiger.jpg"
     },
     {
+      "date": "June 2017",
       "firstname": "Maria",
-      "lastname": "Philip Rosenzweig",
+      "description": "",
+      "lastname": "By Philip Rosenzweig",
       "title": "The Halo Effect",
       "imageurl": "https://www.imd.org/globalassets/publications/books/pictures/small/halo_effect_2e-small-430x222.jpg"
     },
     {
+      "date": "June 2017",
       "firstname": "James",
-      "lastname": "Carlos Cordon",
+      "description": "",
+      "lastname": "By Carlos Cordon",
       "title": "Strategy is Digital",
       "imageurl": "https://www.imd.org/globalassets/publications/books/pictures/small/strategyisdigital.jpg"
     }
