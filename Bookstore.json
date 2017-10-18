@@ -2,21 +2,21 @@
   "books": [
     {
       "firstname": "Steve",
-      "lastname": "Cruise",
-      "title": "Mission Impossible",
-      "imageurl": "https://www.imd.org/globalassets/publications/books/pictures/small/wcy_2017_yearbook-430x222.jpg"
+      "lastname": "IMD Worl Competitiveness Center",
+      "title": "World Competitiness Yearbook 2017",
+      "imageurl": "https://www.imd.org/globalassets/publications/books/pictures/big/wcy_2017_yearbook-1310-575.jpg"
     },
     {
       "firstname": "Maria",
-      "lastname": "Sharapova",
-      "title": "What you can't see",
-      "imageurl": "https://www.imd.org/globalassets/publications/books/pictures/small/strategyisdigital.jpg"
+      "lastname": "Francisco Szekely",
+      "title": "Beyond the Triple Bottom Line",
+      "imageurl": "https://www.imd.org/globalassets/publications/books/pictures/big/beyond_the_triple_bottom_line-1310-575.jpg"
     },
     {
       "firstname": "James",
-      "lastname": "Bond",
-      "title": "Live and let die",
-      "imageurl": "https://www.imd.org/globalassets/publications/books/pictures/small/strategyisdigital.jpg"
+      "lastname": "Georges Haour",
+      "title": "Created in China",
+      "imageurl": "https://www.imd.org/globalassets/publications/books/pictures/big/createdinchina.jpg"
     }
   ]
 }
