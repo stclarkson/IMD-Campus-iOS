@@ -1,5 +1,4 @@
-﻿{
-  "books": [
+[
     {
       "date": "July 2017",
       "firstname": "Steve",
@@ -64,5 +63,4 @@
       "title": "The Global Trends Fieldbook",
       "imageurl": "https://www.imd.org/globalassets/publications/books/pictures/small/global_trends_fieldbook-small-430x222.jpg"
     }
-  ]
-}
+]
