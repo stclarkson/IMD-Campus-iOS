@@ -1,18 +1,68 @@
-[
+{
+  "books": [
     {
-      date: "July 2017",
-      firstname: "Steve",
-      description: "The IMD World Competitiveness Yearbook (WCY) is the leading annual report on the competitiveness of countries and has been published by IMD since 1989. It benchmarks the performance of 63 economies...",
-      lastname: "By IMD World Competitiveness Center",
-      title: "World Competitiness Yearbook 2017",
-      imageurl: "https://www.imd.org/globalassets/publications/books/pictures/big/wcy_2017_yearbook-1310-575.jpg"
+      "date": "July 2017",
+      "firstname": "Steve",
+      "description": "The IMD World Competitiveness Yearbook (WCY) is the leading annual report on the competitiveness of countries and has been published by IMD since 1989. It benchmarks the performance of 63 economies...",
+      "lastname": "By IMD World Competitiveness Center",
+      "title": "World Competitiness Yearbook 2017",
+      "imageurl": "https://www.imd.org/globalassets/publications/books/pictures/big/wcy_2017_yearbook-1310-575.jpg"
     },
     {
-      date: "June 2016",
-      firstname: "Francisco",
-      description: "Many recent books make the case for businesses to become more sustainable, but few explain the specifics. In this book, Francisco Szekely and Zahir Dossa offer a pragmatic new business model for...",
-      lastname: "By Francisco Szekely",
-      title: "Beyond the Triple Bottom Line",
-      imageurl: "https://www.imd.org/globalassets/publications/books/pictures/big/beyond_the_triple_bottom_line-1310-575.jpg"
+      "date": "June 2016",
+      "firstname": "Francisco",
+      "description": "Many recent books make the case for businesses to become more sustainable, but few explain the specifics. In this book, Francisco Szekely and Zahir Dossa offer a pragmatic new business model for...",
+      "lastname": "By Francisco Szekely",
+      "title": "Beyond the Triple Bottom Line",
+      "imageurl": "https://www.imd.org/globalassets/publications/books/pictures/big/beyond_the_triple_bottom_line-1310-575.jpg"
+    },
+    {
+      "date": "January 2016",
+      "firstname": "James",
+      "description": "Undisputedly, China has become the world's manufacturing powerhouse, accounting for around half of all personal computers, digital cameras and kitchen appliances. However, the country is fast...",
+      "lastname": "By Georges Haour",
+      "title": "Created in China",
+      "imageurl": "https://www.imd.org/globalassets/publications/books/pictures/big/createdinchina.jpg"
+    },
+    {
+      "date": "April 2017",
+      "firstname": "Steve",
+      "description": "Competitiveness, like social networks, sustainable development or climate change, is a topic that has captured the world. Politicians, businessmen and media constantly refer to it. What does it mean?...",
+      "lastname": "By Stephane Garelli",
+      "title": "Are you a Tiger, a Cat or a Dinosaur",
+      "imageurl": "https://www.imd.org/globalassets/publications/books/pictures/small/areyouatiger.jpg"
+    },
+    {
+      "date": "June 2014",
+      "firstname": "Maria",
+      "description": "Too many of the most prominent management gurus today make steel-clad guarantees, based on claims of irrefutable research, promising to reveal the secrets of why one company fails and another succeeds, and how you can become the latter...",
+      "lastname": "By Philip Rosenzweig",
+      "title": "The Halo Effect",
+      "imageurl": "https://www.imd.org/globalassets/publications/books/pictures/small/halo_effect_2e-small-430x222.jpg"
+    },
+    {
+      "date": "June 2016",
+      "firstname": "James",
+      "description": "This book presents strategies and practices to allow everyday companies to cope with the fundamentally changing landscape of business models and to take advantage of the huge business opportunities...",
+      "lastname": "By Carlos Cordon",
+      "title": "Strategy is Digital",
+      "imageurl": "https://www.imd.org/globalassets/publications/books/pictures/small/strategyisdigital.jpg"
+    },
+    {
+      "date": "March 2015",
+      "firstname": "Steve",
+      "description": "Offering guidance on the opportunities and threats for future generations, and featuring interviews with business leaders, this book provides a constructive look at change. It directs the youth to...",
+      "lastname": "By Peter Vogel",
+      "title": "Generation Jobless?",
+      "imageurl": "https://www.imd.org/globalassets/publications/books/pictures/small/generation_jobless-430-222.jpg"
+    },
+    {
+      "date": "May 2014",
+      "firstname": "James",
+      "description": "Game changing trends, including the increasing power of the crowd, disruptive technologies and demands for responsible capitalism, are redefining our work, lives, societies and planet. As Paul Polman...",
+      "lastname": "By Thomas W. Malnight",
+      "title": "The Global Trends Fieldbook",
+      "imageurl": "https://www.imd.org/globalassets/publications/books/pictures/small/global_trends_fieldbook-small-430x222.jpg"
     }
-]
+  ]
+}
