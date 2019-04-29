@@ -1,22 +1,10 @@
-{
-  "questions": [
+[
     {
-      "question": "black",
+      "question1": 1,
+      "question": "Question 1"
     },
     {
-      "question": "white",
-    },
-    {
-      "question": "red",
-    },
-    {
-      "question": "blue",
-    },
-    {
-      "question": "yellow",
-    },
-    {
-      "question": "green",
-    },
+      "question2": 2,
+      "question": "Question 2"
+    }
   ]
-}
