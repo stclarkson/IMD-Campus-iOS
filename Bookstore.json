@@ -1,8 +1,4 @@
-[
-  {
-  "q1": "What is the capital of England?"
-}, 
- {
+{
+  "q1": "What is the capital of England?",
   "q2": "What is the capital of Spain?"
  }
-]
