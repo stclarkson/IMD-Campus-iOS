@@ -1,4 +1,12 @@
 {
    "q1": "What is the capital of England?",
-   "q2": "What is the capital of Spain?"
+   "q2": "What is the capital of Spain?",
+   "q3": "What is the price of milk?",
+   "q4": "Where can I buy cheese?",
+   "q5": "How many grams in a Kilo?",
+   "q6": "What is Apple worth?",
+   "q7": "Who won the World cup?",
+   "q8": "Why is blood red?",
+   "q9": "What is the price of bread?",
+   "q10": "Why does petrol burn?"
 }
