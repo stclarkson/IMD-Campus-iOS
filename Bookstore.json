@@ -1,7 +1,10 @@
-[{
+[
+  {
   "id": 1,
   "q1": "What is the capital of England?"
-}, {
+}, 
+ {
   "id": 2,
   "q2": "What is the capital of Spain?"
-}]
+}
+]
